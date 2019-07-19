@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha -r ./node_modules/ts-node/register test/**/*.ts"
+    "test": "./node_modules/.bin/mocha -r ./node_modules/ts-node/register index/**/*.ts"
   },
   "author": "maoguotao",
   "license": "ISC",
